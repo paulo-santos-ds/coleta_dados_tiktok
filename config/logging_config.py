@@ -4,7 +4,6 @@ import os
 from datetime import datetime
 
 def setup_logging():
-    # Ensure logs directory exists
     if not os.path.exists('logs'):
         os.makedirs('logs')
         
@@ -19,5 +18,4 @@ def setup_logging():
             logging.StreamHandler()
         ]
     )
-    
     return logging.getLogger(__name__)

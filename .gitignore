@@ -5,4 +5,5 @@ config/.env
 __pycache__/
 *.log
 Activity/
+
 .env.example
