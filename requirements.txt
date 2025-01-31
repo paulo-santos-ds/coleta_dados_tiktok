@@ -5,3 +5,4 @@ scipy==1.15.1
 tiktokapi==7.0.0
 websocket-client
 pytube==7.0.16
+tiktokapi==7.0.0

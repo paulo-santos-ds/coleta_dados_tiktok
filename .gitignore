@@ -4,3 +4,4 @@ config/chromedriver
 config/.env
 __pycache__/
 *.log
+Activity/
