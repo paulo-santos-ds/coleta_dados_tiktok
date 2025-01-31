@@ -1,0 +1,7 @@
+selenium==4.0.0
+pandas==1.3.4
+python-dotenv==0.19.2
+scipy==1.15.1
+tiktokapi==7.0.0
+websocket-client
+pytube==7.0.16

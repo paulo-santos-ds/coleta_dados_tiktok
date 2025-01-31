@@ -1,0 +1,217 @@
+Screen Resolution: 2352x1080
+App Version: 36.2.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.2.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.2.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.2.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.2.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.2.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 35.9.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+Screen Resolution: 2352x1080
+App Version: 36.0.4
+IDFA: 
+GAID: aa443b8e-8a98-4afe-908d-c095385ee199
+Android ID: c8f2aa0c85c157d5
+IDFV: 
+Web ID: 
+
+
